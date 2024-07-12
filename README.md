@@ -3,6 +3,8 @@
 ## Overview
 This project utilizes an open-source language model, Llama3, to assist in providing legal advice based on Canadian accident laws for insurance purposes. The application processes descriptions of accident situations and identifies relevant legal sections, liability, procedures, and recommendations. The legal information is extracted from a collection of PDF documents containing all relevant Canadian legal acts.
 
+![Project Image](canada_accident_law_llm.png)
+
 ## Project Details
 ### Objective
 The main objective of this project is to develop an AI-based tool that can:
